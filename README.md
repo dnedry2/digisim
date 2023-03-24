@@ -1,2 +1,2 @@
-# digisim
+# DigiSim
 Digitization Simulator
